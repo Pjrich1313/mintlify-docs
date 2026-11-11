@@ -53,3 +53,9 @@ Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/sett
 
 ### Resources
 - [Mintlify documentation](https://mintlify.com/docs)
+
+## License
+
+The Mintlify starter kit in this repository is licensed under the MIT License. Copyright (c) 2026 Mintlify. See [LICENSE](LICENSE).
+
+Pamela Richardson's own additions are licensed under either of the Apache License, Version 2.0 or the MIT license, at your option. Copyright (c) 2026 Pamela Richardson.
